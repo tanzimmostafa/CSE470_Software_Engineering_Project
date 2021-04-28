@@ -1,0 +1,59 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image:url("../img/one.jpg");
+  background-size:cover;
+  background-color:#ccad00;
+}
+.login-box{
+  width: 280px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #ffffff;
+  border-style: none;
+}
+
+
+
+.header{
+  
+  width: 1000px;
+  padding: 5px;
+  background: #806c00;
+  margin: 25px auto;
+  border-radius: 5px;
+  text-align: center;
+  /*border:solid;
+  border-color: black;
+  border-width: 1px;*/
+
+}
+.header p{
+  font-size: 45px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+input[type=submit]{
+  background-color: #b38600;
+  width:250px;
+  border: none;
+  color: white;
+  padding: 25px 50px;
+  text-decoration: none;
+  margin: 10px 10px;
+  cursor: pointer;
+  outline:none;
+}
+
+input[type=submit]:hover{
+
+  background-color: #e6ac00;
+}
+
+
