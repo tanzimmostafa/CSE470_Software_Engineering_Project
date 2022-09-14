@@ -9,3 +9,5 @@ The lmsProject folder contains a subfolder named database where you can download
 Create a new database in phpMyAdmin and import the separatelmsdb.sql file in it.  
 Finally to run the project, open the XAMPP control panel and start Apache and MySQL.   
 Then, open the intro.php file in your browser. 
+
+![Screenshot_1](https://user-images.githubusercontent.com/65446110/190239817-7836d913-3709-4a6f-b09b-81cdd02ab78e.png)
