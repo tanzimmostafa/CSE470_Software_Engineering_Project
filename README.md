@@ -11,3 +11,5 @@ Finally to run the project, open the XAMPP control panel and start Apache and My
 Then, open the intro.php file in your browser. 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/65446110/190239817-7836d913-3709-4a6f-b09b-81cdd02ab78e.png)
+![Screenshot_1 2](https://user-images.githubusercontent.com/65446110/190239995-256f5fcf-0a35-4930-842e-6a0abbf7f330.png)
+
